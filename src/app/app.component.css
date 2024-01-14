@@ -1,0 +1,34 @@
+/* Styles for the main container */
+main {
+    font-family: 'Arial', "sans-serif";
+    font-style: italic;
+    background-color: #f4f4f4; /* Change as per the screenshot background */
+    padding: 20px;
+  }
+  
+  /* Styles for the header */
+  .doctors-page {
+    background-color: #fff; /* Change as per the screenshot header background */
+    color: #333; /* Change as per the screenshot text color */
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Change as per the screenshot shadow */
+    margin-bottom: 30px;
+  }
+  
+  /* The title tag is not styled with CSS and is not meant to be inside the body. 
+     If you need a title, use a different tag like h1. For example: */
+  
+  .doctors-page h1 {
+    font-size: 24px; /* Change as per the screenshot title size */
+    margin: 0;
+    font-weight: normal; /* Change as per the screenshot title weight */
+  }
+  
+  /* Styles for the content section */
+  .content {
+    background-color: #fff; /* Change as per the screenshot content background */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Change as per the screenshot shadow */
+    padding: 20px;
+  }

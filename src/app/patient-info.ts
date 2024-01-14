@@ -1,0 +1,17 @@
+export interface PatientInfo {
+    id : number,
+    name: string,
+    photo: string,
+    dob: string,
+    sex: string,
+    mrn: string,
+    hospital: string,
+    residence: string,
+    ssn: string,
+    email: string,
+    phone: string,
+    dept: string,
+    physician: string,
+    conditions: string,
+    nextAppointment: string,
+}
